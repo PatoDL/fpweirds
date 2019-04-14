@@ -22,7 +22,6 @@ public class Shoot : MonoBehaviour
 
             if (layerHitted == "Trap")
             {
-                Debug.Log("ahre");
                 if (Input.GetMouseButtonDown(0))
                 {
                     hit.transform.gameObject.GetComponentInParent<TrapDestroy>().destroyed = true;
