@@ -14,14 +14,9 @@ public class TrapDestroy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-    }
-
-    private void OnTriggerEnter(Collider col)
-    {
-        if(col.gameObject.name== "RigidBodyFPSController")
+       if(destroyed)
         {
-            Destroy(this.gameObject);
+          Destroy(this.gameObject);
         }
     }
 }
