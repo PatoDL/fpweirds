@@ -25,6 +25,7 @@ public class Shoot : MonoBehaviour
                 if (Input.GetMouseButtonDown(0))
                 {
                     hit.transform.gameObject.GetComponentInParent<TrapDestroy>().destroyed = true;
+                    GameObject.Find("GameManager").GetComponent<GameManager>().AddScore(100);
                 }
             }
         }

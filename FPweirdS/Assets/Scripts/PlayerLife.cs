@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerLife : MonoBehaviour
 {
     public GameObject player;
-    float vida;
+    public float vida;
     public float force;
     Rigidbody rig;
     public bool trapContact;
@@ -21,7 +21,14 @@ public class PlayerLife : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (transform.position.y < -5)
+        {
+            vida = 0;
+        }
+        if (vida<=0)
+        {
+            GameObject.Find("GameManager").GetComponent<GameManager>().SetGO(true);
+        }
     }
 
     private void OnTriggerEnter(Collider col)
