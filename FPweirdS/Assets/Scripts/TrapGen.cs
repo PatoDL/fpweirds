@@ -12,8 +12,8 @@ public class TrapGen : MonoBehaviour
 
     public Transform trap;
     Transform[] traps = new Transform[cantTrapsInGame];
-    const int cantTrapsInGame = 3;
-    const int cantTrapsTotal = 5;
+    const int cantTrapsInGame = 8;
+    const int cantTrapsTotal = 11;
     public Vector3[] auxPos = new Vector3[cantTrapsTotal];
     public Positions[] pos = new Positions[cantTrapsTotal];
     // Start is called before the first frame update
@@ -42,6 +42,11 @@ public class TrapGen : MonoBehaviour
             if(p==4)
             {
                 t.transform.Rotate(new Vector3(0, 0, 26.101f));
+            }
+            if(p>=9)
+            {
+                t.transform.Rotate(new Vector3(0, 0, 90.0f));
+                t.transform.localScale = new Vector3(0.1822433f, 1, 0.2f);
             }
 
         }
