@@ -78,13 +78,10 @@ public class TrapGen : MonoBehaviour
     {
         for (int i = 0; i < cantTrapsInGame; i++)
         {
-            if (traps[i].GetComponent<TrapCollision>().Collided)
-            {
-                while (traps[i].GetComponent<TrapCollision>().Collided)
-                {
-                    traps[i].position = new Vector3(Random.Range(0, 20 * aux), 100, Random.Range(0, 20 * aux));
-                }
-            }
+           //while(traps[i].transform.position.y<-1 && !traps[i].GetComponent<TrapCollision>().Collided)
+           //{
+                
+           //}
         }
     }
 }

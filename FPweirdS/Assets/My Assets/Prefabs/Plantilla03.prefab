@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2649977490079045935}
   m_Layer: 0
   m_Name: Plantilla03
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2326,7 +2326,7 @@ GameObject:
   - component: {fileID: 4270702000280197913}
   m_Layer: 0
   m_Name: Ramp2
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2360,7 +2360,7 @@ GameObject:
   - component: {fileID: 4270702000381969892}
   m_Layer: 0
   m_Name: CentralStructure
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2614,7 +2614,7 @@ GameObject:
   - component: {fileID: 4270702000743673877}
   m_Layer: 0
   m_Name: Ramp4
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2648,7 +2648,7 @@ GameObject:
   - component: {fileID: 4270702000759707026}
   m_Layer: 0
   m_Name: Ramp1
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3438,7 +3438,7 @@ GameObject:
   - component: {fileID: 4270702001471669139}
   m_Layer: 0
   m_Name: Walls
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3584,7 +3584,7 @@ GameObject:
   - component: {fileID: 4270702001722784680}
   m_Layer: 0
   m_Name: Ramp3
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

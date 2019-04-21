@@ -1850,7 +1850,7 @@ GameObject:
   - component: {fileID: 3213232192830616743}
   m_Layer: 0
   m_Name: Plantilla01
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2097,7 +2097,7 @@ GameObject:
   - component: {fileID: 3213232193030061633}
   m_Layer: 0
   m_Name: Estructura
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
