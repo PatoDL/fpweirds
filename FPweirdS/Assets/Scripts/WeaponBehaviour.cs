@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Shoot : MonoBehaviour
+public class WeaponBehaviour : MonoBehaviour
 {
     public float rayDistance = 5;
     public LayerMask rayCastLayer;
@@ -24,7 +24,7 @@ public class Shoot : MonoBehaviour
             {
                 if (Input.GetMouseButtonDown(0))
                 {
-                    hit.transform.gameObject.GetComponentInParent<TrapDestroy>().destroyed = true;
+                    hit.transform.gameObject.GetComponentInParent<TrapDestroyer>().destroyed = true;
                     GameObject.Find("GameManager").GetComponent<GameManager>().AddScore(100);
                 }
             }

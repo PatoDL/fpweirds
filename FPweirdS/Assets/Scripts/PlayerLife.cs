@@ -8,12 +8,10 @@ public class PlayerLife : MonoBehaviour
     public float vida;
     public float force;
     Rigidbody rig;
-    public bool trapContact;
     Vector3 direction;
     // Start is called before the first frame update
     void Start()
     {
-        trapContact = false;
         vida = 100;
         rig = GetComponent<Rigidbody>();
     }
