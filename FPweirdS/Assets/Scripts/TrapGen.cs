@@ -76,12 +76,6 @@ public class TrapGen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        for (int i = 0; i < cantTrapsInGame; i++)
-        {
-           //while(traps[i].transform.position.y<-1 && !traps[i].GetComponent<TrapCollision>().Collided)
-           //{
-                
-           //}
-        }
+       
     }
 }
