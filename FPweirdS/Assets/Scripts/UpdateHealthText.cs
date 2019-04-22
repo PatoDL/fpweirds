@@ -6,9 +6,11 @@ using UnityEngine.UI;
 public class UpdateHealthText : MonoBehaviour
 {
     public Text healthText;
+    GameObject player;
 
     void Start()
     {
+        player = GameObject.Find("RigidBodyFPSController");
         updateHealthText();
     }
 
@@ -19,6 +21,6 @@ public class UpdateHealthText : MonoBehaviour
 
     void updateHealthText()
     {
-        healthText.text = "Health: " + GameObject.Find("RigidBodyFPSController").GetComponent<PlayerLife>().vida;
+        healthText.text = "Health: " + player.GetComponent<PlayerLife>().vida;
     }
 }

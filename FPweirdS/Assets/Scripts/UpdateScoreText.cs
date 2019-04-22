@@ -7,9 +7,11 @@ using UnityEngine.SceneManagement;
 public class UpdateScoreText : MonoBehaviour
 {
     public Text ScoreText;
+    GameObject gm;
 
     void Start()
     {
+        gm = GameObject.Find("GameManager");
         updateScoreText();
     }
 
@@ -22,11 +24,11 @@ public class UpdateScoreText : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "GameOver")
         {
-            ScoreText.text = "Your Final Score is: " + GameObject.Find("GameManager").GetComponent<GameManager>().Score;
+            ScoreText.text = "Your Final Score is: " + gm.GetComponent<GameManager>().Score;
         }
         else
         {
-            ScoreText.text = "Score: " + GameObject.Find("GameManager").GetComponent<GameManager>().Score;
+            ScoreText.text = "Score: " + gm.GetComponent<GameManager>().Score;
         }
     }
 }

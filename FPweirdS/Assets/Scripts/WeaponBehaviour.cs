@@ -6,10 +6,11 @@ public class WeaponBehaviour : MonoBehaviour
 {
     public float rayDistance = 5;
     public LayerMask rayCastLayer;
+    GameObject gm;
     // Start is called before the first frame update
     void Start()
     {
-        
+        gm = GameObject.Find("GameManager");
     }
 
     // Update is called once per frame
@@ -25,7 +26,7 @@ public class WeaponBehaviour : MonoBehaviour
                 if (Input.GetMouseButtonDown(0))
                 {
                     hit.transform.gameObject.GetComponentInParent<TrapDestroyer>().destroyed = true;
-                    GameObject.Find("GameManager").GetComponent<GameManager>().AddScore(100);
+                    gm.GetComponent<GameManager>().AddScore(100);
                 }
             }
         }

@@ -4,8 +4,15 @@ using UnityEngine;
 
 public class SetIG : MonoBehaviour
 {
+    GameObject gm;
+
+    void Start()
+    {
+        gm = GameObject.Find("GameManager");
+    }
+
     public void setig()
     {
-        GameObject.Find("GameManager").GetComponent<GameManager>().PlayAgain();
+        gm.GetComponent<GameManager>().PlayAgain();
     }
 }

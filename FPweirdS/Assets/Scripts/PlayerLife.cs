@@ -9,11 +9,14 @@ public class PlayerLife : MonoBehaviour
     public float force;
     Rigidbody rig;
     Vector3 direction;
+
+    GameObject gm;
     // Start is called before the first frame update
     void Start()
     {
         vida = 100;
         rig = GetComponent<Rigidbody>();
+        gm = GameObject.Find("GameManager");
     }
 
     // Update is called once per frame
@@ -25,7 +28,7 @@ public class PlayerLife : MonoBehaviour
         }
         if (vida<=0)
         {
-            GameObject.Find("GameManager").GetComponent<GameManager>().SetGO(true);
+            gm.GetComponent<GameManager>().SetGO(true);
         }
     }
 
