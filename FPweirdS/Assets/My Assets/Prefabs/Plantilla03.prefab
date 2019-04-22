@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 7357103527584687469}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (12)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -155,7 +155,7 @@ GameObject:
   - component: {fileID: 7357103527615927644}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (12)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 7357103527639942673}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (11)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 7357103528040462949}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (10)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 7357103527864156882}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (13)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -591,7 +591,7 @@ GameObject:
   - component: {fileID: 7357103528251232106}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (12)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -700,7 +700,7 @@ GameObject:
   - component: {fileID: 7357103528358482656}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (10)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -809,7 +809,7 @@ GameObject:
   - component: {fileID: 7357103528450065978}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (10)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -918,7 +918,7 @@ GameObject:
   - component: {fileID: 7357103528472996449}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (11)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1027,7 +1027,7 @@ GameObject:
   - component: {fileID: 7357103526653550750}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (13)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1136,7 +1136,7 @@ GameObject:
   - component: {fileID: 7357103526504997547}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (11)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1245,7 +1245,7 @@ GameObject:
   - component: {fileID: 7357103526847974580}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (10)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1354,7 +1354,7 @@ GameObject:
   - component: {fileID: 7357103526855723099}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (12)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1463,7 +1463,7 @@ GameObject:
   - component: {fileID: 7357103527194163134}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (11)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1572,7 +1572,7 @@ GameObject:
   - component: {fileID: 7357103527134747052}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (13)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1681,7 +1681,7 @@ GameObject:
   - component: {fileID: 7357103527348357723}
   m_Layer: 0
   m_Name: RampPrototype04x02x02 (13)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1790,7 +1790,7 @@ GameObject:
   - component: {fileID: 4270702000004525602}
   m_Layer: 0
   m_Name: Cube (96)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1898,7 +1898,7 @@ GameObject:
   - component: {fileID: 4270702000061518385}
   m_Layer: 0
   m_Name: Cube (92)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2006,7 +2006,7 @@ GameObject:
   - component: {fileID: 4270702000113397123}
   m_Layer: 0
   m_Name: Cube (99)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2114,7 +2114,7 @@ GameObject:
   - component: {fileID: 4270702000122446909}
   m_Layer: 0
   m_Name: Cube (84)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2222,7 +2222,7 @@ GameObject:
   - component: {fileID: 4270702000167163276}
   m_Layer: 0
   m_Name: Cube (86)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2402,7 +2402,7 @@ GameObject:
   - component: {fileID: 4270702000525633028}
   m_Layer: 0
   m_Name: Cube (97)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2510,7 +2510,7 @@ GameObject:
   - component: {fileID: 4270702000687535296}
   m_Layer: 0
   m_Name: Cube (90)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2686,7 +2686,7 @@ GameObject:
   - component: {fileID: 4270702000780274344}
   m_Layer: 0
   m_Name: Cube (85)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2794,7 +2794,7 @@ GameObject:
   - component: {fileID: 4270702000878417392}
   m_Layer: 0
   m_Name: Cube (95)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2902,7 +2902,7 @@ GameObject:
   - component: {fileID: 4270702000927426698}
   m_Layer: 0
   m_Name: Cube (91)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3010,7 +3010,7 @@ GameObject:
   - component: {fileID: 4270702001117208104}
   m_Layer: 0
   m_Name: Cube (87)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3118,7 +3118,7 @@ GameObject:
   - component: {fileID: 4270702001323238988}
   m_Layer: 0
   m_Name: Cube (89)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3226,7 +3226,7 @@ GameObject:
   - component: {fileID: 4270702001362476538}
   m_Layer: 0
   m_Name: Cube (98)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3334,7 +3334,7 @@ GameObject:
   - component: {fileID: 4270702001468639792}
   m_Layer: 0
   m_Name: Cube (94)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3480,7 +3480,7 @@ GameObject:
   - component: {fileID: 4270702001509125055}
   m_Layer: 0
   m_Name: Cube (88)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3622,7 +3622,7 @@ GameObject:
   - component: {fileID: 4270702001867291165}
   m_Layer: 0
   m_Name: Cube (93)
-  m_TagString: Untagged
+  m_TagString: Plantilla
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3743,7 +3743,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4270702001898636078}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 10, y: 0, z: 10}
   m_LocalScale: {x: 20, y: 1, z: 20}
   m_Children:
   - {fileID: 4270702000759707026}

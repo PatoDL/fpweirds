@@ -57,7 +57,7 @@ public class TrapGen : MonoBehaviour
 
         //}
 
-        aux = (int)GameObject.Find("WorldGen").GetComponent<WorldGenerator>().Width-1;
+        aux = (int)GameObject.Find("WorldGen").GetComponent<WorldGenerator>().Width;
 
         for (int i=0;i<cantTrapsInGame;i++)
         {
@@ -68,7 +68,7 @@ public class TrapGen : MonoBehaviour
         for(int j=0;j<cantTrapsInGame;j++)
         {
             Instantiate(traps[j]);
-            traps[j].position = new Vector3(Random.Range(0,20*aux),20,Random.Range(0,20*aux));
+            traps[j].position = new Vector3(Random.Range(0,(20*aux)),20,Random.Range(0,(20*aux)));
         }
         
     }

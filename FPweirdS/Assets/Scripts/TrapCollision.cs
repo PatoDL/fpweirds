@@ -13,6 +13,7 @@ public class TrapCollision : MonoBehaviour
             Debug.Log(collision.gameObject.tag);
             Collided = true;
             GetComponent<Rigidbody>().isKinematic = true;
+            transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
         }
     }
 }
